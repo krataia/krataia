@@ -37,17 +37,17 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=krataib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://trophy.ryglcloud.net/?username=krataib&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=krataib)](https://github.com/krataib/github-profile-trophy) -->
+  <img src="https://streak-stats.demolab.com?user=krataia&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://trophy.ryglcloud.net/?username=krataia&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=krataia)](https://github.com/krataib/github-profile-trophy) -->
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krataib/krataib/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krataib/krataib/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krataib/krataib/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krataia/krataib/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krataia/krataib/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krataib/krataia/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
